@@ -1,0 +1,21 @@
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll.config
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.pdb
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csprojAssemblyReference.cache
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csproj.CoreCompileInputs.cache
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.dll
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.pdb
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll.config
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.pdb
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.dll
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.pdb
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll.config
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.dll
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\bin\LuckyCatWcfService.pdb
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.dll
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWcfService\obj\Debug\LuckyCatWcfService.pdb
