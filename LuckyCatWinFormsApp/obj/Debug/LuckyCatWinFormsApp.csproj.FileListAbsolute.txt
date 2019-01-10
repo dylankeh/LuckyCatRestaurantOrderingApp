@@ -1,0 +1,82 @@
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+Z:\Documents\term4\PROG37721_CSharp\VisualStudio\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.OrderDish.resources
+C:\Users\Ploppy\Documents\Source\Repos\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Checkout.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Checkout.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.OrderDish.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+Z:\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Checkout.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.OrderDish.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+\\vmware-host\Shared Folders\Downloads\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Checkout.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.OrderDish.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+C:\Users\Ploppy\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe.config
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.exe
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\bin\Debug\LuckyCatWinFormsApp.pdb
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Checkout.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.CreateUserForm.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.LoginForm.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.MainForm.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.OrderDish.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.Properties.Resources.resources
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.exe
+\\Mac\Home\Desktop\LuckyCat\LuckyCatWinFormsApp\LuckyCatWinFormsApp\obj\Debug\LuckyCatWinFormsApp.pdb
