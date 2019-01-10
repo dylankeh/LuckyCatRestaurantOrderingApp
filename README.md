@@ -16,3 +16,8 @@ It is a dish-ordering system made for restaurant owners.
 
 
 ![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/login_validation_1.jpg)
+![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/create_user.jpg)
+![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/main_window.jpg)
+![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/main_window_2.jpg)
+![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/order_window.jpg)
+![Login Window](https://github.com/dylankeh/LuckyCatRestaurantOrderingApp/blob/master/screenshot/checkout_window.jpg)
